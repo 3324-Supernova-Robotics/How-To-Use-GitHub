@@ -9,6 +9,8 @@ In VRC, when we generally have one or two programmers, GitHub's best use is:
 - a backup when something happens to your computer
 - allowing the builders on your team to change things, such as tuning an autonomous mode, changing a port, or tuning a preset position. 
 
+------
+
 # Getting Started
 
 1) Make an account on [GitHub.com](https://github.com/).
@@ -28,6 +30,8 @@ Within your `3324Q` equivalent folder, you will create your VEXcode or PROS proj
 
 Please be sure to put multiple folders here!  This is useful for when you inevitably want to redo the code, or start a new robot that needs new code.   
 ![](https://media.discordapp.net/attachments/620685769945645096/896580274798886932/unknown.png?width=196&height=130)
+
+------
 
 # Uploading to GitHub
 This is a five step process that you should be doing after every successful thing you get working, and at the end of every practice.  GitHub is only useful if you're using it. 
@@ -52,10 +56,20 @@ Press `Commit to main`.
 ## Step 5: Push origin
 The code will not show to GitHub until you push to origin.  To do this, in the top center of your screen, press `Push to origin`.  
 ![](https://cdn.discordapp.com/attachments/620685769945645096/896589671742701609/unknown.png)
-------
-
-# You're Done!
 
 If you check your repository on https://github.com/3324-Supernova-Robotics/, you will see it's been updated!  
+
+------
+
+# My teammate uploaded code!  How do I get it on my computer?
+
+## How to Pull
+`Pulling` is when you take the code from GitHub and put it onto your computer.
+
+In GitHub Desktop, go to `Repository` -> `Pull`.  If you've made changes, you can `stache` them for later.
+
+------
+
+# You're Done! You know how to use GitHub!
 
 
