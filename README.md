@@ -20,14 +20,14 @@ In GitHub Desktop, go to `File` -> `Clone Repository` then select your team numb
 
 Check the directroy and make sure you see your `3324Q` equivalent folder.  This is where all of your code will go.  
 
+Note*  if you already have a GitHub repo for your team, transfer ownership to this organization.  
+
 ## Place Your Code
 
 Within your `3324Q` equivalent folder, you will create your VEXcode or PROS projects.  
 
 Please be sure to put multiple folders here!  This is useful for when you inevitably want to redo the code, or start a new robot that needs new code.   
 ![](https://media.discordapp.net/attachments/620685769945645096/896580274798886932/unknown.png?width=196&height=130)
-
-Note*  if you already have a GitHub repo for your team, transfer ownership to this organization.  
 
 # Uploading to GitHub
 This is a five step process that you should be doing after every successful thing you get working, and at the end of every practice.  GitHub is only useful if you're using it. 
