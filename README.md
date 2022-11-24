@@ -17,12 +17,18 @@ In VRC, when we generally have one or two programmers, GitHub's best use is:
 2) Tell a coach or mentor your username and they will add you to the 3324 Supernova Robotics organization. 
 3) Download [GitHub Desktop](https://desktop.github.com/). Sign into your account through Github Deksotp.
 
+## Create a Repository
+At [GitHub.com](https://github.com/), click the plus icon in the top right corner and select `New Repository`.   
+
+![](https://cdn.discordapp.com/attachments/614964471223418916/1045400284400205935/image.png)
+
+Make the new repository `Private` and give it a name, in this case I've named it `3324Q`.
+![](https://cdn.discordapp.com/attachments/614964471223418916/1045401382536106065/image.png)
+
 ## Getting Code onto Your Computer
-In GitHub Desktop, go to `File` -> `Clone Repository` then select your team number (eg. 3324Q).  Make sure the `Local Path` is in a place you will remember, I always put code in my `Documents` folder.  After you've done this, select `Clone`.  
+In GitHub Desktop, go to `File` -> `Clone Repository` then select the same you gave the repository above.  Make sure the `Local Path` is in a place you will remember, I always put code in my `Documents` folder.  After you've done this, select `Clone`.  
 
 Check the directroy and make sure you see your `3324Q` equivalent folder.  This is where all of your code will go.  
-
-Note*  if you already have a GitHub repo for your team, transfer ownership to this organization.  
 
 ## Place Your Code
 
@@ -58,6 +64,12 @@ The code will not show to GitHub until you push to origin.  To do this, in the t
 ![](https://cdn.discordapp.com/attachments/620685769945645096/896589671742701609/unknown.png)
 
 If you check your repository on https://github.com/3324-Supernova-Robotics/, you will see it's been updated!  
+
+------
+
+# Adding Teammates to Repository
+
+I was going to write a tutorial on how to do this, but GitHub has written one better then I can, and I'm not going ot reinvent the wheel.  [So here you go!](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)
 
 ------
 
